@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1371261321 source:f:\codeblocks programming\imagedeform\main.cpp
+	<math.h>
+	<opencv/cv.h>
+	<opencv/highgui.h>
+
